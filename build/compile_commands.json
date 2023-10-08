@@ -1,0 +1,97 @@
+[
+{
+  "directory": "/home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/build",
+  "command": "/usr/bin/g++   -I/home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/./include -isystem /home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/build/_deps/googletest-src/googletest/include -isystem /home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/build/_deps/googletest-src/googletest  -g   -Wall -O3 -std=gnu++17 -o CMakeFiles/test_fourier.dir/src/estimatePSD.cpp.o -c /home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/src/estimatePSD.cpp",
+  "file": "/home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/src/estimatePSD.cpp"
+},
+{
+  "directory": "/home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/build",
+  "command": "/usr/bin/g++   -I/home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/./include -isystem /home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/build/_deps/googletest-src/googletest/include -isystem /home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/build/_deps/googletest-src/googletest  -g   -Wall -O3 -std=gnu++17 -o CMakeFiles/test_fourier.dir/src/filter.cpp.o -c /home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/src/filter.cpp",
+  "file": "/home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/src/filter.cpp"
+},
+{
+  "directory": "/home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/build",
+  "command": "/usr/bin/g++   -I/home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/./include -isystem /home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/build/_deps/googletest-src/googletest/include -isystem /home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/build/_deps/googletest-src/googletest  -g   -Wall -O3 -std=gnu++17 -o CMakeFiles/test_fourier.dir/src/fourier.cpp.o -c /home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/src/fourier.cpp",
+  "file": "/home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/src/fourier.cpp"
+},
+{
+  "directory": "/home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/build",
+  "command": "/usr/bin/g++   -I/home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/./include -isystem /home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/build/_deps/googletest-src/googletest/include -isystem /home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/build/_deps/googletest-src/googletest  -g   -Wall -O3 -std=gnu++17 -o CMakeFiles/test_fourier.dir/src/genfunc.cpp.o -c /home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/src/genfunc.cpp",
+  "file": "/home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/src/genfunc.cpp"
+},
+{
+  "directory": "/home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/build",
+  "command": "/usr/bin/g++   -I/home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/./include -isystem /home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/build/_deps/googletest-src/googletest/include -isystem /home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/build/_deps/googletest-src/googletest  -g   -Wall -O3 -std=gnu++17 -o CMakeFiles/test_fourier.dir/src/iofunc.cpp.o -c /home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/src/iofunc.cpp",
+  "file": "/home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/src/iofunc.cpp"
+},
+{
+  "directory": "/home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/build",
+  "command": "/usr/bin/g++   -I/home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/./include -isystem /home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/build/_deps/googletest-src/googletest/include -isystem /home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/build/_deps/googletest-src/googletest  -g   -Wall -O3 -std=gnu++17 -o CMakeFiles/test_fourier.dir/src/logfunc.cpp.o -c /home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/src/logfunc.cpp",
+  "file": "/home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/src/logfunc.cpp"
+},
+{
+  "directory": "/home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/build",
+  "command": "/usr/bin/g++   -I/home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/./include -isystem /home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/build/_deps/googletest-src/googletest/include -isystem /home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/build/_deps/googletest-src/googletest  -g   -Wall -O3 -std=gnu++17 -o CMakeFiles/test_fourier.dir/test/fft_unittest.cpp.o -c /home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/test/fft_unittest.cpp",
+  "file": "/home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/test/fft_unittest.cpp"
+},
+{
+  "directory": "/home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/build",
+  "command": "/usr/bin/g++   -I/home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/./include -isystem /home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/build/_deps/googletest-src/googletest/include -isystem /home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/build/_deps/googletest-src/googletest  -g   -Wall -O3 -std=gnu++17 -o CMakeFiles/test_fourier.dir/test/idft_unittest.cpp.o -c /home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/test/idft_unittest.cpp",
+  "file": "/home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/test/idft_unittest.cpp"
+},
+{
+  "directory": "/home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/build",
+  "command": "/usr/bin/g++   -I/home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/./include  -g   -Wall -O3 -std=gnu++17 -o CMakeFiles/project.dir/src/estimatePSD.cpp.o -c /home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/src/estimatePSD.cpp",
+  "file": "/home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/src/estimatePSD.cpp"
+},
+{
+  "directory": "/home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/build",
+  "command": "/usr/bin/g++   -I/home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/./include  -g   -Wall -O3 -std=gnu++17 -o CMakeFiles/project.dir/src/filter.cpp.o -c /home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/src/filter.cpp",
+  "file": "/home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/src/filter.cpp"
+},
+{
+  "directory": "/home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/build",
+  "command": "/usr/bin/g++   -I/home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/./include  -g   -Wall -O3 -std=gnu++17 -o CMakeFiles/project.dir/src/fourier.cpp.o -c /home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/src/fourier.cpp",
+  "file": "/home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/src/fourier.cpp"
+},
+{
+  "directory": "/home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/build",
+  "command": "/usr/bin/g++   -I/home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/./include  -g   -Wall -O3 -std=gnu++17 -o CMakeFiles/project.dir/src/genfunc.cpp.o -c /home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/src/genfunc.cpp",
+  "file": "/home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/src/genfunc.cpp"
+},
+{
+  "directory": "/home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/build",
+  "command": "/usr/bin/g++   -I/home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/./include  -g   -Wall -O3 -std=gnu++17 -o CMakeFiles/project.dir/src/iofunc.cpp.o -c /home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/src/iofunc.cpp",
+  "file": "/home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/src/iofunc.cpp"
+},
+{
+  "directory": "/home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/build",
+  "command": "/usr/bin/g++   -I/home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/./include  -g   -Wall -O3 -std=gnu++17 -o CMakeFiles/project.dir/src/logfunc.cpp.o -c /home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/src/logfunc.cpp",
+  "file": "/home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/src/logfunc.cpp"
+},
+{
+  "directory": "/home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/build",
+  "command": "/usr/bin/g++   -I/home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/./include  -g   -Wall -O3 -std=gnu++17 -o CMakeFiles/project.dir/src/project.cpp.o -c /home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/src/project.cpp",
+  "file": "/home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/src/project.cpp"
+},
+{
+  "directory": "/home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/build/_deps/googletest-build/googlemock",
+  "command": "/usr/bin/g++   -isystem /home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/build/_deps/googletest-src/googlemock/include -isystem /home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/build/_deps/googletest-src/googlemock -isystem /home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/build/_deps/googletest-src/googletest/include -isystem /home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/build/_deps/googletest-src/googletest  -g   -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -Wall -O3 -std=c++17 -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "file": "/home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/build/_deps/googletest-src/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/build/_deps/googletest-build/googlemock",
+  "command": "/usr/bin/g++   -I/home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/build/_deps/googletest-src/googlemock/include -I/home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/build/_deps/googletest-src/googlemock -isystem /home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/build/_deps/googletest-src/googletest/include -isystem /home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/build/_deps/googletest-src/googletest  -g   -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -Wall -O3 -std=c++17 -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "file": "/home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/build/_deps/googletest-src/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/build/_deps/googletest-build/googletest",
+  "command": "/usr/bin/g++   -isystem /home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/build/_deps/googletest-src/googletest/include -isystem /home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/build/_deps/googletest-src/googletest  -g   -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -Wall -O3 -std=c++17 -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "file": "/home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/build/_deps/googletest-src/googletest/src/gtest_main.cc"
+},
+{
+  "directory": "/home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/build/_deps/googletest-build/googletest",
+  "command": "/usr/bin/g++   -I/home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/build/_deps/googletest-src/googletest/include -I/home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/build/_deps/googletest-src/googletest  -g   -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -Wall -O3 -std=c++17 -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "file": "/home/moniem/code/3DY4/3dy4-project-group11-prj-wednesday/build/_deps/googletest-src/googletest/src/gtest-all.cc"
+}
+]
